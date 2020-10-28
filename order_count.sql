@@ -1,4 +1,4 @@
-/*<info databaseType="2" serverAlias="NexOpsMySQL-classicmodels" executers="deployer" viewers="" isFunction="1" isNested="0"></info>*/
+/*<info databaseType="2" serverAlias="NexOpsMySQL-classicmodels" executers="deployer" isFunction="1"></info>*/
 USE `classicmodels`;
 DROP function IF EXISTS `order_count`;
 
@@ -12,7 +12,7 @@ BEGIN
 	Param:
 
 	Revisions:
-		- 20201027@Larry: Initialize
+		- 20201027@Larry: Initialize hehe
 	
 */
 	SET @count = 0;

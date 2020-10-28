@@ -1,4 +1,4 @@
-/*<info databaseType="2" serverAlias="NexOpsMySQL-classicmodels" executers="deployer" viewers="" isFunction="0" isNested="0"></info>*/
+/*<info databaseType="2" serverAlias="NexOpsMySQL-classicmodels" executers="deployer" isFunction="0"></info>*/
 DELIMITER $$
 USE `classicmodels`$$
 CREATE PROCEDURE `customers_get`(IN cusNumber INT)
@@ -8,7 +8,7 @@ BEGIN
 	Param:
 
 	Revisions:
-		- 20201027@Larry: Initialize
+		- 20201027@Larry: Initialize hehe
 	
 */
 	SELECT *
