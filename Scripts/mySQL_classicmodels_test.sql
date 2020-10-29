@@ -1,3 +1,4 @@
+/*<info databaseType="2" serverAlias="NexOpsMySQL-classicmodels"></info>*/
 CREATE DATABASE  IF NOT EXISTS `classicmodels` /*!40100 DEFAULT CHARACTER SET latin1 */ /*!80016 DEFAULT ENCRYPTION='N' */;
 USE `classicmodels`;
 -- MySQL dump 10.13  Distrib 8.0.21, for Win64 (x86_64)
