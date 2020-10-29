@@ -14,6 +14,11 @@ BEGIN
 	SELECT *
     FROM classicmodels.customers
     WHERE customerNumber = cusNumber;
+    
+    SELECT *
+    FROM orders
+    WHERE customerNumber = cusNumber;    
+    
 END$$
 
 DELIMITER ;
