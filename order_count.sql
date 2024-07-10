@@ -12,7 +12,7 @@ BEGIN
 	Param:
 
 	Revisions:
-		- 20201027@Larry: Initialize hehe
+		- 20240710@Larry: Initialize
 	
 */
 	SET @count = 0;
